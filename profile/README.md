@@ -55,22 +55,6 @@ We're a remote-based web agency specializing in building fast, scalable, and bea
 
 ---
 
-## 💼 Services
-
-### Web Development
-Full-stack application development with modern frameworks and best practices.
-
-### Mobile Development  
-Native and cross-platform mobile apps for iOS and Android.
-
-### DevOps & Cloud
-Infrastructure automation, CI/CD pipelines, and cloud architecture.
-
-### Technical Consulting
-Architecture reviews, performance audits, and technology strategy.
-
----
-
 ## 🌟 What Our Clients Say
 
 > "Working with ya boy was a game-changer. They delivered a complex platform 2 weeks ahead of schedule and under budget."  
@@ -79,7 +63,6 @@ Architecture reviews, performance audits, and technology strategy.
 > "Their technical expertise and communication made the entire process seamless. Highly recommend!"  
 > — **Jane Smith, Founder at StartupXYZ**
 
-
 ---
 
 ## 🔓 Open Source
@@ -87,7 +70,6 @@ Architecture reviews, performance audits, and technology strategy.
 We believe in giving back to the community. Check out our open-source tools:
 
 Come back later - We are building for you and me! 
-
 
 
 ---
