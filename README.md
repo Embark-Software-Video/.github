@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 [Embark Software & Video]
+# 🚀 Embark Software & Video
 
 ### Crafting Digital Experiences That Drive Results!
 
