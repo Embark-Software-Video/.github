@@ -18,6 +18,7 @@ We're a remote-based web agency specializing in building fast, scalable, and bea
 - 🎨 Web & Mobile Application Development
 - ⚡ Performance Optimization & SEO
 - 🏗️ Video & Social Media Mgmt
+- ☎️ Cold Calling & Digital Marketing
 
 ---
 
