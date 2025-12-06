@@ -97,8 +97,8 @@ Come back later - We are building for you and me!
 
 ---
 
-**[Embark Software & Video]** • Building the future, one commit at a time
+**Embark Software & Video** • Building the future, one commit at a time
 
-Made with ❤️ in [Your City]
+Made with ❤️ in Your City
 
 </div>
