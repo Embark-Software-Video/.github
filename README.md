@@ -4,7 +4,7 @@
 
 ### Crafting Digital Experiences That Drive Results!
 
-[Website](embarksoftware.tech) • [Contact](info@embarksoftware.tech) • [LinkedIn]()
+[Website](https://embarksoftware.tech) • [Contact](info@embarksoftware.tech) • [LinkedIn](https://www.linkedin.com/company/embark-software-video)
 
 ---
 
